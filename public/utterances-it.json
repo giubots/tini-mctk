@@ -1,0 +1,14 @@
+{
+    "name": "Utterances",
+    "locale": "it-IT",
+    "data": {
+        "comp.crop": "È possibile utilizzare lo strumento evidenziato per modificare le dimensioni dell'immagine",
+        "align.rotate": "Per correggere l'allineamento dell'immagine si può usare lo strumento evidenziato",
+        "style.generic": "Se volete aggiungere uno stile particolare alla vostra immagine, controllate le opzioni evidenziate dello strumento filtro",
+        "focus.blur": "Se cercate un aspetto più morbido, potete diminuire la nitidezza dell'immagine con lo strumento sfocatura",
+        "focus.sharp": "Per aumentare la nitidezza dell'immagine e renderla più chiara, si può usare lo strumento Nitidezza",
+        "focus.pixel": "Lo strumento pixelato può essere usato se si preferisce un effetto pixelato invece di una sfocatura morbida",
+        "luminosity": "È possibile utilizzare lo strumento evidenziato per controllare la luminosità dell'immagine",
+        "_default": "Mi dispiace, non ho capito cosa vuoi fare. Prova di nuovo"
+    }
+}

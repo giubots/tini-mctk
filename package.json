@@ -1,0 +1,28 @@
+{
+  "name": "tini-mctk",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@toast-ui/vue-image-editor": "^3.15.2",
+    "papaparse": "^5.3.2",
+    "vue": "^2.6.14",
+    "vue-beautiful-chat": "^2.5.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "@nlpjs/core": "^4.23.4",
+    "@nlpjs/nlp": "^4.23.5",
+    "@nlpjs/request-rn": "^4.23.4",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^8.0.3"
+  }
+}

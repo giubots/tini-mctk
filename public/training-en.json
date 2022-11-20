@@ -1,0 +1,116 @@
+{
+  "name": "Corpus",
+  "locale": "en-US",
+  "data": [
+    {
+      "intent": "composition",
+      "utterances": [
+        "I don't like this image size",
+        "I want a smaller image",
+        "The image should be cropped",
+        "Crop the image",
+        "Let me cut the picture",
+        "I want it smaller"
+      ]
+    },
+    {
+      "intent": "alignment",
+      "utterances": [
+        "The image is tilted",
+        "The picture is not aligned",
+        "The drawing is not straight",
+        "Straighten the picture",
+        "I want to rotate the picture",
+        "Rotate the image"
+      ]
+    },
+    {
+      "intent": "style",
+      "utterances": [
+        "Apply a style to the image",
+        "I want to change the style",
+        "I want to change the picture appearance",
+        "Add a filter",
+        "Change the feeling of the picture",
+        "Make the picture different"
+      ]
+    },
+    {
+      "intent": "focus",
+      "utterances": [
+        "Change the focus",
+        "Make the picture focus different",
+        "I would like to change the blur",
+        "Let me edit the focus",
+        "The picture sharpness is off",
+        "I want to change the sharpness"
+      ]
+    },
+    {
+      "intent": "focusLess",
+      "utterances": [
+        "Reduce the focus",
+        "Make the picture less focus",
+        "I would like to add blur",
+        "Let me reduce the focus",
+        "The picture is too sharp",
+        "I want to reduce the sharpness",
+        "I want to blur the picture",
+        "Blur the picture",
+        "I want to blur the image"
+      ]
+    },
+    {
+      "intent": "focusMore",
+      "utterances": [
+        "Increase the focus",
+        "Make the picture more focus",
+        "I would like to reduce the blur",
+        "Let me increase the focus",
+        "The picture is not sharp",
+        "I want to increase the sharpness",
+        "The image is blurred",
+        "I want to sharpen the picture",
+        "Sharpen the picture",
+        "Too much blur",
+        "Remove blur"
+      ]
+    },
+    {
+      "intent": "dark",
+      "utterances": [
+        "The image is dark",
+        "I want to make the picture lighter",
+        "I want to make the picture brighter",
+        "The image is too dark",
+        "The picture is too dark",
+        "Too dark",
+        "I want it lighter",
+        "Increase luminosity",
+        "Increase brightness",
+        "Increase lightness",
+        "Add light",
+        "Increase the light",
+        "How do I make the image darker?"
+      ]
+    },
+    {
+      "intent": "light",
+      "utterances": [
+        "The image is light",
+        "I want to make the picture darker",
+        "I want to make the picture less bright",
+        "The image is too light",
+        "The picture is too light",
+        "Too light",
+        "I want it darker",
+        "Decrease luminosity",
+        "Decrease brightness",
+        "Decrease lightness",
+        "Reduce light",
+        "Add dark",
+        "Decrease the light"
+      ]
+    }
+  ]
+}

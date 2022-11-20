@@ -1,0 +1,14 @@
+{
+    "name": "Utterances",
+    "locale": "en-US",
+    "data": {
+        "comp.crop": "You can use the highlighted tool to change the size of the image",
+        "align.rotate": "To correct the picture's alignment you can use the tool highlighted",
+        "style.generic": " you want to add a particular style to your image, check out the highlighted options of the filter tool",
+        "focus.blur": "If you are looking for a more soft look, you can decrease the sharpness of the image with the blur tool",
+        "focus.sharp": "To increase the sharpness of the image and make it more clear, you can use the sharpen tool",
+        "focus.pixel": "The pixelate tool can be used if you prefer a pixelate effect instead of a soft blur.",
+        "luminosity": "You can use the highlighted tool to control the brightness of the image",
+        "_default": "I am sorry, I didn't understand what you want to do. Please try again."
+    }
+}

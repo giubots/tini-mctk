@@ -1,0 +1,10 @@
+module,parameter,composition,alignment,style,focus,focusLess,focusMore,dark,light
+crop,,comp.crop,,,,,,,
+rotate,,,align.rotate,,,,,,
+filter,grayscale,,,style.generic,,,,,
+filter,sepia,,,style.generic,,,,,
+filter,vintage,,,style.generic,,,,,
+filter,blur,,,,focus.blur,focus.blur,,,
+filter,sharpen,,,,focus.sharp,,focus.sharp,,
+filter,brightness,,,,,,,luminosity,luminosity
+filter,pixelate,,,style.generic,focus.pixel,focus.pixel,,,

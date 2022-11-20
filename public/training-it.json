@@ -1,0 +1,116 @@
+{
+  "name": "Corpus",
+  "locale": "it-IT",
+  "data": [
+    {
+      "intent": "composition",
+      "utterances": [
+        "Non mi piace la dimensione dell'immagine",
+        "Voglio un'immagine più piccola",
+        "L'immagine dovrebbe essere ritagliata",
+        "Ritagliare l'immagine",
+        "Lascia che tagli l'immagine",
+        "La voglio più piccola"
+      ]
+    },
+    {
+      "intent": "alignment",
+      "utterances": [
+        "L'immagine è inclinata",
+        "L'immagine non è allineata",
+        "Il disegno non è dritto",
+        "Raddrizzare l'immagine",
+        "Voglio ruotare l'immagine",
+        "Ruota l'immagine"
+      ]
+    },
+    {
+      "intent": "style",
+      "utterances": [
+        "Applica uno stile all'immagine",
+        "Voglio cambiare lo stile",
+        "Voglio cambiare l'aspetto dell'immagine",
+        "Aggiungere un filtro",
+        "Cambiare la sensazione dell'immagine",
+        "Rendere l'immagine diversa"
+      ]
+    },
+    {
+      "intent": "focus",
+      "utterances": [
+        "Cambiare la messa a fuoco",
+        "Cambia la messa a fuoco dell'immagine",
+        "Vorrei cambiare la sfocatura",
+        "Fammi modificare la messa a fuoco",
+        "La nitidezza dell'immagine è disattivata",
+        "Voglio cambiare la nitidezza"
+      ]
+    },
+    {
+      "intent": "focusLess",
+      "utterances": [
+        "Ridurre la messa a fuoco",
+        "Rendere l'immagine meno a fuoco",
+        "Vorrei aggiungere una sfocatura",
+        "Vorrei ridurre la messa a fuoco",
+        "L'immagine è troppo nitida",
+        "Voglio ridurre la nitidezza",
+        "Voglio sfocare l'immagine",
+        "Sfocare l'immagine",
+        "Voglio sfocare l'immagine"
+      ]
+    },
+    {
+      "intent": "focusMore",
+      "utterances": [
+        "Aumenta la messa a fuoco",
+        "Rendere l'immagine più a fuoco",
+        "Vorrei ridurre la sfocatura",
+        "Vorrei aumentare la messa a fuoco",
+        "L'immagine non è nitida",
+        "Voglio aumentare la nitidezza",
+        "L'immagine è sfocata",
+        "Voglio rendere più nitida l'immagine",
+        "Rendi più nitida l'immagine",
+        "Troppa sfocatura",
+        "Rimuovere la sfocatura"
+      ]
+    },
+    {
+      "intent": "dark",
+      "utterances": [
+        "L'immagine è scura",
+        "Voglio rendere l'immagine più chiara",
+        "Voglio rendere l'immagine più luminosa",
+        "L'immagine è troppo scura",
+        "L'immagine è troppo scura",
+        "Troppo scura",
+        "La voglio più chiara",
+        "Aumentare la luminosità",
+        "Aumentare la luminosità",
+        "Aumentare la luminosità",
+        "Aggiungere luce",
+        "Aumenta la luce",
+        "Come faccio a rendere l'immagine più scura?"
+      ]
+    },
+    {
+      "intent": "light",
+      "utterances": [
+        "L'immagine è chiara",
+        "Voglio rendere l'immagine più scura",
+        "Voglio rendere l'immagine meno luminosa",
+        "L'immagine è troppo chiara",
+        "L'immagine è troppo chiara",
+        "Troppo chiara",
+        "Voglio che sia più scura",
+        "Diminuire la luminosità",
+        "Diminuire la luminosità",
+        "Diminuire la luminosità",
+        "Ridurre la luce",
+        "Aggiungi buio",
+        "Diminuire la luce"
+      ]
+    }
+  ]
+}
